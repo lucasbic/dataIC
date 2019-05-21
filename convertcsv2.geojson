@@ -1,0 +1,155 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6663,-23.4763,300 ]
+    },
+    "properties": {
+    "MAPINFO_ID":1,
+    "Id_acident":"D011600179",
+    "Cadloga":4015,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"04-jan-16",
+    "Hora":1500,
+    "Cod_acid":2,
+    "Dp":38,
+    "Talao":44,
+    "Veiculos":11000000000000000,
+    "Vitimas":100,
+    "Princ_a":4015,
+    "Princ_b":null,
+    "Tipo_acide":"CO",
+    "MI_PRINX":327095
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6704,-23.4749,4000 ]
+    },
+    "properties": {
+    "MAPINFO_ID":2,
+    "Id_acident":"D011600313",
+    "Cadloga":3771,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"19-jan-16",
+    "Hora":700,
+    "Cod_acid":2,
+    "Dp":28,
+    "Talao":971,
+    "Veiculos":1000000000000000,
+    "Vitimas":100,
+    "Princ_a":3771,
+    "Princ_b":null,
+    "Tipo_acide":"QM",
+    "MI_PRINX":327096
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6685,-23.4736,100 ]
+    },
+    "properties": {
+    "MAPINFO_ID":3,
+    "Id_acident":"D011600734",
+    "Cadloga":7368,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"11-jan-16",
+    "Hora":900,
+    "Cod_acid":2,
+    "Dp":72,
+    "Talao":386,
+    "Veiculos":1000000000000000,
+    "Vitimas":100,
+    "Princ_a":7368,
+    "Princ_b":null,
+    "Tipo_acide":"QM",
+    "MI_PRINX":327097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6677,-23.4745,3994 ]
+    },
+    "properties": {
+    "MAPINFO_ID":4,
+    "Id_acident":"D011601083",
+    "Cadloga":6450,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"30-jan-16",
+    "Hora":1540,
+    "Cod_acid":4,
+    "Dp":38,
+    "Talao":862,
+    "Veiculos":100000000000000,
+    "Vitimas":100,
+    "Princ_a":6450,
+    "Princ_b":null,
+    "Tipo_acide":"AT",
+    "MI_PRINX":327098
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6696,-23.4742,5082 ]
+    },
+    "properties": {
+    "MAPINFO_ID":5,
+    "Id_acident":"D011601173",
+    "Cadloga":9420,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"21-jan-16",
+    "Hora":1557,
+    "Cod_acid":2,
+    "Dp":28,
+    "Talao":364,
+    "Veiculos":200000000000000,
+    "Vitimas":100,
+    "Princ_a":9420,
+    "Princ_b":null,
+    "Tipo_acide":"CO",
+    "MI_PRINX":327099
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6705,-23.4737,45 ]
+    },
+    "properties": {
+    "MAPINFO_ID":6,
+    "Id_acident":"D011601224",
+    "Cadloga":15425,
+    "Cadlogb":null,
+    "Referencia":"",
+    "Data":"01-jan-16",
+    "Hora":213,
+    "Cod_acid":2,
+    "Dp":74,
+    "Talao":25,
+    "Veiculos":11000000000000000,
+    "Vitimas":1,
+    "Princ_a":15425,
+    "Princ_b":null,
+    "Tipo_acide":"CO",
+    "MI_PRINX":327100
+    }
+  }
+  ]
+  })
